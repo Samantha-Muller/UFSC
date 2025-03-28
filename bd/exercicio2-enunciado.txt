@@ -1,0 +1,34 @@
+Desenvolva o Diagrama Entidade-Relacionamento (DER) para as seguintes situações:
+1.- Problema 01: Cada item de a) a e) deve ter seu próprio DER.
+a) Um aluno realiza vários trabalhos. Um trabalho é realizado por um
+ou mais alunos.
+b) Um diretor dirige no máximo um departamento. Um departamento
+tem no máximo um diretor.
+c) Um autor escreve vários livros. Um livro pode ser escrito por vários
+autores.
+d) Uma equipe é composta por vários jogadores. Um jogador joga
+apenas em uma equipe.
+e) Um cliente realiza várias encomendas. Uma encomenda diz respeito
+apenas a um cliente
+2.- Problema 02
+Um berçário deseja informaƟzar suas operações. Quando um bebê nasce,
+algumas informações são armazenadas sobre ele, tais como: nome, data do
+nascimento, peso do nascimento, altura, a mãe deste bebê e o médico que
+fez seu parto. Para as mães, o berçário também deseja manter um controle,
+guardando informações como: nome, endereço, telefone e data de
+nascimento. Para os médicos, é importante saber: CRM, nome, telefone
+celular e especialidade.
+3.- Problema 03
+Uma floricultura deseja informaƟzar suas operações. Inicialmente, deseja
+manter um cadastro de todos os seus clientes, mantendo informações
+como: RG, nome, telefone e endereço. Deseja também manter um cadastro
+contendo informações sobre os produtos que vende, tais como: nome do
+produto, Ɵpo (flor, vaso, planta,...), preço e quanƟdade em estoque.
+Quando um cliente faz uma compra, a mesma é armazenada, mantendo
+informação sobre o cliente que fez a compra, a data da compra, o valor total
+e os produtos comprados.
+4.- Problema 04
+Uma Escola tem várias turmas. Uma turma tem vários professores, sendo
+que um professor pode ministrar aulas em mais de uma turma. Uma turma
+tem sempre aulas na mesma sala, mas uma sala pode estar associada a
+várias turmas (com horários diferentes).
